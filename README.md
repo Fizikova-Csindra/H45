@@ -32,5 +32,5 @@ Kérjük, hogy a közös munka során mindig tartsd be az Alapítvány adatvéde
 
 [LICENCE](https://fizikova-csindra.github.io/LICENCE.hu.html)
 
-| ![!100](QR_H45.png) | **Csindra Alapítvány**<br>V1.26.3  <br>[web.csindra.hu](https://web.csindra.hu)  <br>[GitHub: Csindra-H45](https://github.com/Fizikova-Csindra/H45) | [](Barcode_H45.png) |
+| ![!100](QR_H45.png) | **Csindra Alapítvány**<br>V1.26.3  <br>[web.csindra.hu](https://web.csindra.hu)  <br>[GitHub: Csindra-H45](https://github.com/Fizikova-Csindra/H45) | ![!200](Barcode_H45.png) |
 | :-----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------- |
