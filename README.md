@@ -7,9 +7,9 @@ Ez az adattár a **Csindra Alapítvány** hivatalos nyílt forráskódú projekt
 között.
 
 ---
-[READMIKOR](/READMIKOR.md)
+[READMIKOR](https://github.com/Fizikova-Csindra/fizikova-csindra.github.io/blob/main/READMIKOR.md)
 ---
-[READTEMA](/READTEMA.md)
+[READTEMA](https://github.com/Fizikova-Csindra/fizikova-csindra.github.io/blob/main/READTEMA.md)
 _______________
 ## ✨ Hogyan Járulhatsz Hozzá?
 
@@ -26,11 +26,11 @@ A legaktívabb közreműködőket nyilvános elismerésben, oklevélben és az A
 ## 🔒 Biztonság és Etika
 Kérjük, hogy a közös munka során mindig tartsd be az Alapítvány adatvédelmi szabályzatát és etikai kódexét. A projektek részletes licencfeltételeit az adott repository-kban találod meg.
 
-[ADATVÉDELEM](/ADATVEDELEM.hu.html)
+[ADATVÉDELEM](https://fizikova-csindra.github.io/ADATVEDELEM.hu.html)
 
-[ETIKA](/ETIKA.hu.html)
+[ETIKA](https://fizikova-csindra.github.io/ETIKA.hu.html)
 
-[LICENCE](/LICENCE.hu.html)
+[LICENCE](https://fizikova-csindra.github.io/LICENCE.hu.html)
 
 | ![!100](QR_H45.png) | **Csindra Alapítvány**<br>V1.26.3  <br>[web.csindra.hu](https://web.csindra.hu)  <br>[GitHub: Csindra-H45](https://github.com/Fizikova-Csindra/H45) | ![[Barcode_H45.png]] |
 | :-----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------- |
