@@ -13,7 +13,8 @@ A fejlesztések úgy valósíthatóak meg jól, ha ismerjük az előzményeket. 
 ---
 
 <p align="center">
-  <a href="H45.vezetekes.md" target="_blank">☎ Vezetékes távközlés</a>
+  <a href="H45.vezetekes.md" target="_blank">☎ Vezetékes távközlés</a> <br>
+  <a href="H45.Vezetékes_DE_V2.26.3.pdf" download>A dokumentum letöltése (PDF)</a>
 </p>
 
 _____
