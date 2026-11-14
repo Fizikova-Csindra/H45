@@ -1,19 +1,24 @@
 # 🛰️ Üdvözlünk !  👉🏻 [(English version)📜](https://github.com/Fizikova-Csindra/H45/blob/main/README.en.md)
 
 Ez az adattár a **Csindra Alapítvány** hivatalos nyílt forráskódú projektjei közül a **Kommunikáció(Híradás)[H] mester szintű [H45]**, oktatási anyagainak és kutatási fejlesztéseinek ad otthont. Célunk a kommunikáció fejlesztése
+<p align="center">
 - ember-ember
 - ember-gép 
 - gép-gép 
-között.
+</p>p> között.
 
-A fejlesztések úgy valósíthatóak meg jól, ha ismerjük az előzményeket. A Debreceni Egyetem Villamosmérnöki Tanszéke és a csindra Alapítvány arra vállalkozott, hogy egy átfogó távközléstörténeti dokumentációt készít az utóbbi 150 év technikai fejlődéséről. A kész dokumentumok lexikális jellegűek és egyetemi hallgatók számára készültek. A dokumentumok az ikonokra kattintva nyílnak meg.
+A fejlesztések úgy valósíthatóak meg jól, ha ismerjük az előzményeket. A Debreceni Egyetem Villamosmérnöki Tanszéke és a csindra Alapítvány arra vállalkozott, hogy egy átfogó távközléstörténeti dokumentációt készít az utóbbi 150 év technikai fejlődéséről. A kész dokumentumok lexikális jellegűek és egyetemi hallgatók számára készültek. A dokumentumok az alábbi linkeken nyílnak meg.
 
 ---
-| [☎](H45.vezetekes.md) |
-|:----------------------:|
-|   Vezetékes távközlés  |
-| [📱](H45.mobil_DE.md) |
-|    Mobil távközlés    |
+
+<p align="center">
+  <a href="H45.vezetekes.md" target="_blank">☎ Vezetékes távközlés</a>
+</p>
+
+_____
+<p align="center">
+  <a href="H45.mobil_DE.md" target="_blank">📱 Mobil távközlés</a>
+</p>
 
 _______________
 ## ✨ Hogyan Járulhatsz Hozzá?
@@ -37,5 +42,7 @@ Kérjük, hogy a közös munka során mindig tartsd be az Alapítvány adatvéde
 
 [LICENCE](https://fizikova-csindra.github.io/LICENCE.hu.html)
 
-| ![!100](QR_H45.png) | **Csindra Alapítvány**<br>V2.26.3  <br>[web.csindra.hu](https://web.csindra.hu)  <br>[GitHub: Csindra-H45](https://github.com/Fizikova-Csindra/H45) | ![!200](Barcode_H45.png) |
-| :-----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------ |
+|           Távközléstörténet           |             ____________________             |       V2.26.3        |
+| :-----------------------------------: | :------------------------------------------: | :------------------: |
+| <img src="QR_H45.png" width="200"> | <br>**Távközléstörténet<br>2026<br>V2.26.3** | <img src="Barcode_H45.png" height="200"> |
+
