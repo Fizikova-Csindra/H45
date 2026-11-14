@@ -19,7 +19,8 @@ A fejlesztések úgy valósíthatóak meg jól, ha ismerjük az előzményeket. 
 
 _____
 <p align="center">
-  <a href="H45.mobil_DE.md" target="_blank">📱 Mobil távközlés</a>
+  <a href="H45.mobil.md" target="_blank">📱 Mobil távközlés</a>
+  <a href="H45.mobil_DE-V2.26.3.pdf" download>A dokumentum letöltése (PDF)</a>
 </p>
 
 _______________
