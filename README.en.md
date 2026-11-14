@@ -45,5 +45,6 @@ Please ensure that you always adhere to the Foundation’s data protection polic
   <a href="https://fizikova-csindra.github.io/LICENCE.en.html" target="_blank">LICENCE</a>
 </p>
 
-| ![!100](QR_H45.png) | **Csindra Alapítvány**<br>V1.26.3  <br>[web.csindra.hu](https://web.csindra.hu)  <br>[GitHub: Csindra-H45](https://github.com/Fizikova-Csindra/H45) | ![!200](Barcode_H45.png) |
-| :-----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------- |
+|           Telecom History           |             ____________________             |       V2.26.4        |
+| :-----------------------------------: | :------------------------------------------: | :------------------: |
+| <img src="QR_H45.png" width="200"> | <br>**Telecom History<br>2026<br>V2.26.4** | <img src="Barcode_H45.png" height="200"> |
