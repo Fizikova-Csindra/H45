@@ -36,12 +36,17 @@ A legaktívabb közreműködőket nyilvános elismerésben, oklevélben és az A
 
 ## 🔒 Biztonság és Etika
 Kérjük, hogy a közös munka során mindig tartsd be az Alapítvány adatvédelmi szabályzatát és etikai kódexét. A projektek részletes licencfeltételeit az adott repository-kban találod meg.
+<p align="center">
+  <a href="https://fizikova-csindra.github.io/ADATVEDELEM.hu.html" target="_blank">ADATVÉDELEM</a>
+</p>
 
-[ADATVÉDELEM](https://fizikova-csindra.github.io/ADATVEDELEM.hu.html)
+<p align="center">
+  <a href="https://fizikova-csindra.github.io/ETIKA.hu.html" target="_blank">ETIKA</a>
+</p>
 
-[ETIKA](https://fizikova-csindra.github.io/ETIKA.hu.html)
-
-[LICENCE](https://fizikova-csindra.github.io/LICENCE.hu.html)
+<p align="center">
+  <a href="https://fizikova-csindra.github.io/LICENCE.hu.html" target="_blank">LICENSZ</a>
+</p>
 
 |           Távközléstörténet           |             ____________________             |       V2.26.3        |
 | :-----------------------------------: | :------------------------------------------: | :------------------: |
