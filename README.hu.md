@@ -9,7 +9,9 @@ között.
 A fejlesztések úgy valósíthatóak meg jól, ha ismerjük az előzményeket. A Debreceni Egyetem Villamosmérnöki Tanszéke és a csindra Alapítvány arra vállalkozott, hogy egy átfogó távközléstörténeti dokumentációt készít az utóbbi 150 év technikai fejlődéséről. A kész dokumentumok lexikális jellegűek és egyetemi hallgatók számára készültek.
 
 ---
-![H45.mobil](H45.vezetekes.md)
+        [☎ Vezetékes távközlés](H45.vezetekes.md)
+
+___
 ![H45.mobil](H45.mobil_DE.md)
 
 _______________
