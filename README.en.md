@@ -47,4 +47,4 @@ Please ensure that you always adhere to the Foundation’s data protection polic
 
 |           Telecom History           |             ____________________             |       V2.26.4        |
 | :-----------------------------------: | :------------------------------------------: | :------------------: |
-| <img src="QR_H45.png" width="200"> | <br>**Telecom History<br>2026<br>V2.26.4** | <img src="Barcode_H45.png" height="200"> |
+| <img src="QR_H45.png" width="200"> | <br>**Telecom History<br>2026<br>V2.26.4** | <img src="kepek/BarV2.26.4.png" height="200"> |
