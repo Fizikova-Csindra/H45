@@ -1,15 +1,28 @@
-# 🛰️ Üdvözlünk a Fizikova-Csindra nyílt forráskódú GitHub közösségében!
+# 🛰️ Üdvözlünk !  👉🏻 [(English version)📜](https://github.com/Fizikova-Csindra/H45/blob/main/README.en.md)
 
-Ez az adattár a **Csindra Alapítvány** hivatalos nyílt forráskódú projektjei közül a **Kommunikáció(Híradás)[H] mester szintű**, oktatási anyagainak és kutatási fejlesztéseinek ad otthont. Célunk a kommunikáció fejlesztése
-- ember-ember
-- ember-gép
-- gép-gép
+Ez az adattár a **Csindra Alapítvány** hivatalos nyílt forráskódú projektjei közül a **Kommunikáció(Híradás)[H] mester szintű [H45]**, oktatási anyagainak és kutatási fejlesztéseinek ad otthont. Célunk a kommunikáció fejlesztése
+  
+- ember-ember <br>
+- ember-gép <br>
+- gép-gép <br>
+
 között.
 
+A fejlesztések úgy valósíthatóak meg jól, ha ismerjük az előzményeket. A Debreceni Egyetem Villamosmérnöki Tanszéke és a csindra Alapítvány arra vállalkozott, hogy egy átfogó távközléstörténeti dokumentációt készít az utóbbi 150 év technikai fejlődéséről. A kész dokumentumok lexikális jellegűek és egyetemi hallgatók számára készültek. A dokumentumok az alábbi linkeken nyílnak meg.
+
 ---
-[READMIKOR](https://github.com/Fizikova-Csindra/fizikova-csindra.github.io/blob/main/READMIKOR.md)
----
-[READTEMA](https://github.com/Fizikova-Csindra/fizikova-csindra.github.io/blob/main/READTEMA.md)
+
+<p align="center">
+  <a href="H45.vezetekes.md" target="_blank">☎ Vezetékes távközlés</a> <br>
+  <a href="H45.Vezetékes_DE_V2.26.3.pdf" download>A dokumentum letöltése (PDF)</a>
+</p>
+
+_____
+<p align="center">
+  <a href="H45.mobil.md" target="_blank">📱 Mobil távközlés</a> <br>
+  <a href="H45.mobil_DE-V2.26.3.pdf" download>A dokumentum letöltése (PDF)</a>
+</p>
+
 _______________
 ## ✨ Hogyan Járulhatsz Hozzá?
 
@@ -25,12 +38,19 @@ A legaktívabb közreműködőket nyilvános elismerésben, oklevélben és az A
 
 ## 🔒 Biztonság és Etika
 Kérjük, hogy a közös munka során mindig tartsd be az Alapítvány adatvédelmi szabályzatát és etikai kódexét. A projektek részletes licencfeltételeit az adott repository-kban találod meg.
+<p align="center">
+  <a href="https://fizikova-csindra.github.io/ADATVEDELEM.hu.html" target="_blank">ADATVÉDELEM</a>
+</p>
 
-[ADATVÉDELEM](https://fizikova-csindra.github.io/ADATVEDELEM.hu.html)
+<p align="center">
+  <a href="https://fizikova-csindra.github.io/ETIKA.hu.html" target="_blank">ETIKA</a>
+</p>
 
-[ETIKA](https://fizikova-csindra.github.io/ETIKA.hu.html)
+<p align="center">
+  <a href="https://fizikova-csindra.github.io/LICENCE.hu.html" target="_blank">LICENSZ</a>
+</p>
 
-[LICENCE](https://fizikova-csindra.github.io/LICENCE.hu.html)
+|           Távközléstörténet           |             ____________________             |       V2.26.3        |
+| :-----------------------------------: | :------------------------------------------: | :------------------: |
+| <img src="QR_H45.png" width="200"> | <br>**Távközléstörténet<br>2026<br>V2.26.3** | <img src="Barcode_H45.png" height="200"> |
 
-| ![!100](QR_H45.png) | **Csindra Alapítvány**<br>V1.26.3  <br>[web.csindra.hu](https://web.csindra.hu)  <br>[GitHub: Csindra-H45](https://github.com/Fizikova-Csindra/H45) | ![!200](Barcode_H45.png) |
-| :-----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------- |
