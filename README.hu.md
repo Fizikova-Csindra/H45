@@ -6,13 +6,14 @@ Ez az adattár a **Csindra Alapítvány** hivatalos nyílt forráskódú projekt
 - gép-gép 
 között.
 
-A fejlesztések úgy valósíthatóak meg jól, ha ismerjük az előzményeket. A Debreceni Egyetem Villamosmérnöki Tanszéke és a csindra Alapítvány arra vállalkozott, hogy egy átfogó távközléstörténeti dokumentációt készít az utóbbi 150 év technikai fejlődéséről. A kész dokumentumok lexikális jellegűek és egyetemi hallgatók számára készültek.
+A fejlesztések úgy valósíthatóak meg jól, ha ismerjük az előzményeket. A Debreceni Egyetem Villamosmérnöki Tanszéke és a csindra Alapítvány arra vállalkozott, hogy egy átfogó távközléstörténeti dokumentációt készít az utóbbi 150 év technikai fejlődéséről. A kész dokumentumok lexikális jellegűek és egyetemi hallgatók számára készültek. A dokumentumok az ikonokra kattintva nyílnak meg.
 
 ---
-        [☎ Vezetékes távközlés](H45.vezetekes.md)
-
-___
-![H45.mobil](H45.mobil_DE.md)
+| [☎](H45.vezetekes.md) |
+|:----------------------:|
+|   Vezetékes távközlés  |
+| [📱](H45.mobil_DE.md) |
+|    Mobil távközlés    |
 
 _______________
 ## ✨ Hogyan Járulhatsz Hozzá?
